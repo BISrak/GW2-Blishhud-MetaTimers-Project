@@ -1,0 +1,18 @@
+{
+  "name": "BlishHUDMetaTimer",
+  "version": "0.1.0",
+  "namespace": "BlishHUDMetaTimer",
+  "package": "BlishHUDMetaTimer.dll",
+  "manifest_version": 1,
+
+  "description": "A module for displaying meta timers ingame",
+  "dependencies": {
+    "bh.blishhud": ">=0.5.2"
+  },
+  "url": "https://github.com/phill/BlishHUDMetaTimer",
+  "contributors": [
+    {
+      "name": "Phillip Corporon | Bisrak"
+    }
+  ]
+}

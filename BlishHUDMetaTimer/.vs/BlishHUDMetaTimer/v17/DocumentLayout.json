@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GithubRoot\\GW2-Blishhud-MetaTimers-Project\\BlishHUDMetaTimer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{135439DA-A576-4502-B584-2A9C8C550974}|BlishHUDMetaTimer.csproj|d:\\githubroot\\gw2-blishhud-metatimers-project\\blishhudmetatimer\\manifest.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{135439DA-A576-4502-B584-2A9C8C550974}|BlishHUDMetaTimer.csproj|solutionrelative:manifest.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{135439DA-A576-4502-B584-2A9C8C550974}|BlishHUDMetaTimer.csproj|D:\\GithubRoot\\GW2-Blishhud-MetaTimers-Project\\BlishHUDMetaTimer\\ref\\_instructions.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{135439DA-A576-4502-B584-2A9C8C550974}|BlishHUDMetaTimer.csproj|solutionrelative:ref\\_instructions.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "manifest.json",
+              "DocumentMoniker": "D:\\GithubRoot\\GW2-Blishhud-MetaTimers-Project\\BlishHUDMetaTimer\\manifest.json",
+              "RelativeDocumentMoniker": "manifest.json",
+              "ToolTip": "D:\\GithubRoot\\GW2-Blishhud-MetaTimers-Project\\BlishHUDMetaTimer\\manifest.json",
+              "RelativeToolTip": "manifest.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-16T22:34:03.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_instructions.txt",
+              "DocumentMoniker": "D:\\GithubRoot\\GW2-Blishhud-MetaTimers-Project\\BlishHUDMetaTimer\\ref\\_instructions.txt",
+              "RelativeDocumentMoniker": "ref\\_instructions.txt",
+              "ToolTip": "D:\\GithubRoot\\GW2-Blishhud-MetaTimers-Project\\BlishHUDMetaTimer\\ref\\_instructions.txt",
+              "RelativeToolTip": "ref\\_instructions.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAB3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-11T15:12:11.057Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
